@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\university\MicroController\18 -External_Interrupts\B4-B7_PIN_Change_ Interrupts\CODE\CODE.mcppi
+Project1=MyProject.mcppi
+[ActiveProject]
+Index=1

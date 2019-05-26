@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\..\PIC codeinterrupt\MyProject.mcppi
+Project1=..\interrupt\MyProject.mcppi
+Project2=..\Timer0\MyProject.mcppi
+Project3=MyProject.mcppi
+[ActiveProject]
+Index=3

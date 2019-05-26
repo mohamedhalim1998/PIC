@@ -19,7 +19,7 @@ Lcd_Cmd( _LCD_CURSOR_OFF);
 // main program loop
 while(1){
 
-   Lcd_Out(1,1,"test"); 
+   Lcd_Out(1,1,"test"); // printing  at lcd at posistion line 1 col 1
 }
 
 
